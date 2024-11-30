@@ -1,4 +1,4 @@
-package ma.emsi.elbir1.tp0elbir1;
+package ma.emsi.elbir1.tp0elbir1.Bb;
 
 import jakarta.faces.application.FacesMessage;
 import jakarta.faces.context.FacesContext;
